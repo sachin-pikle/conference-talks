@@ -4,7 +4,7 @@
 
 ### Practical Python AI on the JVM with GraalPy and Pyronaut
 
-**25 November 2026 | 16:50–17:20 | Stage 4**
+**25 November 2026 | 16:50–17:20**
 
 Explores Python on the JVM through two approaches for bringing Python’s AI and data science ecosystem to JVM applications: embedding Python with GraalPy in a Micronaut application, and building Python applications with Pyronaut, a framework built on GraalPy and Micronaut.
 
@@ -20,7 +20,7 @@ Explores Python on the JVM through two approaches for bringing Python’s AI and
 
 ### Practical Python AI in Java with GraalPy - Sachin Pikle
 
-**23 April 2026**
+**23 April 2026 | 17:00–17:30**
 
 AI innovation in the Java ecosystem is accelerating through projects like LangChain4j, Spring AI, and llama3.java, yet Python remains the powerhouse for AI, machine learning, and data science. What if Java developers could use Python’s rich ecosystem directly within their existing Java services, without context switching? This session demonstrates how to do exactly that with GraalPy, a high-performance, embeddable Python 3 runtime for Java.
 
